@@ -1,3 +1,18 @@
 {
-    "transactions": []
-  }
+  "transactions": [
+    {
+      "id": "cea3",
+      "date": "2024-11-19",
+      "description": "Mayai",
+      "category": "Food",
+      "amount": "200"
+    },
+    {
+      "id": "276b",
+      "date": "2024-11-19",
+      "description": "Car maintainance",
+      "category": "Car",
+      "amount": "5000"
+    }
+  ]
+}
